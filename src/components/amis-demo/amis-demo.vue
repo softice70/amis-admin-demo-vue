@@ -4,7 +4,6 @@
 
 <script>
 import AMisRenderer from "@/components/amis/AMisRenderer.vue";
-
 export default {
     name: "AmisDemo",
     components: {
