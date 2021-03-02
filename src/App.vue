@@ -5,8 +5,7 @@
 </template>
 
 <script>
-// eslint-disable-next-line no-unused-vars
-import AmisDemo from './components/amis-demo/amis-demo.vue'
+import AmisDemo from './components/amis-demo/AmisDemo.vue'
 
 export default {
   name: 'App',
